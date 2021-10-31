@@ -8,8 +8,11 @@
 TEAM NAME    : UwU
 
 TEAM MEMBERS : 1.Sudha Sree Yerramsetty 
+
                2. Vishnu Priya Thammina
-               3. Isha Valiveti 
+
+               3. Isha Valiveti
+               
 You just need to run the tetris code in VS code and you're good to go! And for the second project, it needs a few modifications(through Android Studio)
 
 
