@@ -15,7 +15,11 @@ TEAM MEMBERS :
 
                3. Isha Valiveti
                
-You just need to run the tetris code in VS code and you're good to go! And for the second project, it needs a few modifications(through Android Studio)
+HOW TO GET STARTED:
+
+     1.You just need to download the tetris.py code,or just copy paste it in VS code and you're good to go! 
+     
+     2.Check out the codes in the remaining OCR files, edit them  and get started with dev!
 
 
 ![image](https://user-images.githubusercontent.com/78261234/139589058-0cc3eacd-7b15-4b4b-97e1-d2fb28961890.png)
